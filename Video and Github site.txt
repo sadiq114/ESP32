@@ -1,0 +1,5 @@
+1-https://www.youtube.com/watch?v=b01l9O43t5Y
+	(Video)
+
+2-https://github.com/espressif/arduino-esp32
+	(Github site)
